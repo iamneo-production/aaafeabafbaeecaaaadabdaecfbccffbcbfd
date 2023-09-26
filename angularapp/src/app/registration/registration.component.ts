@@ -10,7 +10,7 @@ export class RegistrationComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    registrationSuccess
+    
   }
 
 }
